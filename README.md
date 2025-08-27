@@ -10,5 +10,8 @@ Các bài tập chủ yếu hiển thị thông tin của các đối tượng �
 ## Hướng dẫn chạy
 Các bài tập chỉ yêu cầu biên dịch và chạy đơn giản. Không cần setup phức tạp.
 
+## Bài học
+Học được cái dùng instructor, cách dùng và gọi phương thức cho class
+
 ## Hỗ trợ
 Bài tập được hỗ trợ bởi ChatGPT để tạo một số ví dụ mẫu, phần còn lại được làm thủ công và giữ định dạng tương tự.
